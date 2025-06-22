@@ -145,7 +145,7 @@ body {
 
 .theTLetter {
   font-size: 60px;
-  font-weight: bold;
+  font-weight: 700;
   color: var(--color-red-dark);
   text-decoration: underline;
   text-transform: uppercase;
@@ -154,7 +154,7 @@ body {
 
 .theHLetter {
   font-size: 50px;
-  font-weight: normal;
+  font-weight: 400;
   color: var(--color-purple-dark);
   text-decoration: overline;
   text-transform: lowercase;
@@ -163,7 +163,7 @@ body {
 
 .theELetter {
   font-size: 40px;
-  font-weight: bold;
+  font-weight: 400;
   color: var(--color-aqua-dark);
   text-decoration: none;
   text-transform: uppercase;
@@ -237,7 +237,7 @@ body {
 
 .frontendDLetter {
   font-size: 20px;
-  font-weight: normal;
+  font-weight: 700;
   color: var(--color-red-light-light);
   text-decoration: overline;
   text-transform: lowercase;
@@ -272,7 +272,7 @@ body {
 }
 .developerETwoLetter {
   font-size: 60px;
-  font-weight: bold;
+  font-weight: 400;
   color: var(--color-purple-dark-strong);
   text-decoration: underline;
   text-transform: uppercase;
@@ -597,7 +597,7 @@ body {
 
 .toTLetter {
   font-size: 50px;
-  font-weight: bold;
+  font-weight: 400;
   color: var(--color-purple-dark);
   text-decoration: underline;
   text-transform: uppercase;
@@ -605,7 +605,7 @@ body {
 }
 .toOLetter {
   font-size: 40px;
-  font-weight: normal;
+  font-weight: 700;
   color: var(--color-aqua-dark);
   text-decoration: overline;
   text-transform: lowercase;
@@ -632,7 +632,7 @@ body {
 }
 .improvePLetter {
   font-size: 30px;
-  font-weight: bold;
+  font-weight: 400;
   color: var(--color-blue-dark);
   text-decoration: none;
   text-transform: uppercase;
@@ -664,7 +664,7 @@ body {
 }
 .improveELetter {
   font-size: 30px;
-  font-weight: bold;
+  font-weight: 700;
   color: var(--color-aqua-dark);
   text-decoration: underline;
   text-transform: uppercase;
@@ -683,7 +683,7 @@ body {
 }
 .theirHLetter {
   font-size: 50px;
-  font-weight: normal;
+  font-weight: 700;
   color: var(--color-aqua-dark);
   text-decoration: overline;
   text-transform: lowercase;
@@ -753,7 +753,7 @@ body {
 
 .skillsSLetter {
   font-size: 50px;
-  font-weight: bold;
+  font-weight: 400;
   color: var(--color-blue-dark);
   text-decoration: underline;
   text-transform: uppercase;
