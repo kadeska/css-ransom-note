@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 :root {
   --color-red-dark-strong: #b30000;
   --color-red-dark: #ff0000;
@@ -196,7 +200,7 @@ body {
   color: var(--color-green-light);
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 
 .frontendNLetter {
@@ -205,7 +209,7 @@ body {
   color: var(--color-yellow-light);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 
 .frontendTLetter {
@@ -214,7 +218,7 @@ body {
   color: var(--color-purple-light);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .frontendELetter {
@@ -241,7 +245,7 @@ body {
   color: var(--color-red-light-light);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 /* DEVELOPER word */
@@ -260,7 +264,7 @@ body {
   color: var(--color-green-dark-strong);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .developerVLetter {
   font-size: 30px;
@@ -316,7 +320,7 @@ body {
   color: var(--color-green-dark-strong);
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 
 /* TAKE word */
@@ -370,7 +374,7 @@ body {
   color: var(--color-aqua-light);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 
 /* GARDENING word */
@@ -389,7 +393,7 @@ body {
   color: var(--color-red-light-light);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .gardeningRLetter {
   font-size: 50px;
@@ -413,7 +417,7 @@ body {
   color: var(--color-yellow-light);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 .gardeningNLetter {
   font-size: 60px;
@@ -464,7 +468,7 @@ body {
   color: var(--color-green-dark);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 .becauseCLetter {
   font-size: 30px;
@@ -504,7 +508,7 @@ body {
   color: var(--color-yellow-dark);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 
 /* THEY word */
@@ -550,7 +554,7 @@ body {
   color: var(--color-aqua-dark);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .wantedALetter {
   font-size: 40px;
@@ -558,7 +562,7 @@ body {
   color: var(--color-coral-dark);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .wantedNLetter {
   font-size: 30px;
@@ -566,7 +570,7 @@ body {
   color: var(--color-red-dark);
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 .wantedTLetter {
   font-size: 60px;
@@ -636,7 +640,7 @@ body {
   color: var(--color-blue-dark);
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 .improveRLetter {
   font-size: 60px;
@@ -703,7 +707,7 @@ body {
   color: var(--color-red-dark);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 .theirRLetter {
   font-size: 60px;
@@ -711,7 +715,7 @@ body {
   color: var(--color-blue-dark);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 
 /* ROOT word */
@@ -757,7 +761,7 @@ body {
   color: var(--color-blue-dark);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .skillsKLetter {
   font-size: 40px;
@@ -765,7 +769,7 @@ body {
   color: var(--color-green-dark);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .skillsILetter {
   font-size: 30px;
@@ -789,7 +793,7 @@ body {
   color: var(--color-green-dark);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 .skillsSTwoLetter {
   font-size: 40px;
@@ -797,7 +801,7 @@ body {
   color: var(--color-yellow-dark);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
 }
 
 /* SYMBOLS */
